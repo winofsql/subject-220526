@@ -64,3 +64,5 @@ $(function(){
 
 ### 関数仕様書
 ![image](https://user-images.githubusercontent.com/1501327/170424469-68c9f6b9-b998-41d8-a132-a14ea790a5ca.png)
+
+![image](https://user-images.githubusercontent.com/1501327/170450374-271aad9e-ff73-466c-98fa-50e5e23e16e7.png)
