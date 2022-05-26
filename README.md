@@ -61,3 +61,6 @@ $(function(){
     // console.log("裏デバッグ");
 });
 ```
+
+### 関数仕様書
+![image](https://user-images.githubusercontent.com/1501327/170424469-68c9f6b9-b998-41d8-a132-a14ea790a5ca.png)
